@@ -1,0 +1,16 @@
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.exe
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.deps.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.runtimeconfig.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.runtimeconfig.dev.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\ref\DesignPatternPK.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\bin\Debug\net5.0\DesignPatternPK.pdb
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.csproj.AssemblyReference.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.AssemblyInfoInputs.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.AssemblyInfo.cs
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.csproj.CoreCompileInputs.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\DesignPatternPK.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\ref\DesignPatternPK.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\DesignPatternPK.pdb
+E:\Code\CSharp-Projects\ZenOfDesignPattern\2.DesignPatternPK\obj\Debug\net5.0\2.DesignPatternPK.genruntimeconfig.cache

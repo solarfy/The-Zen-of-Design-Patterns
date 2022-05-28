@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukl/ie0y9u/6SfzVv6sx+t9jC7ol7lrp4SGIvchsubrFRjua6/48HNCldx7k1sweYwj6wkV8jhh8RXoguJ1NHg==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\CSharp-Projects\\ZenOfDesignPattern\\1.ZenOfDesignPattern\\1.ZenOfDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
