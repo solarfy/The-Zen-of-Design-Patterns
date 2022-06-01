@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "E:\\Code\\CSharp-Projects\\ZenOfDesignPattern\\3.MixedMode\\3.MixedMode.csproj",
-        "projectName": "3.MixedMode",
+        "projectName": "MixedMode",
         "projectPath": "E:\\Code\\CSharp-Projects\\ZenOfDesignPattern\\3.MixedMode\\3.MixedMode.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "E:\\Code\\CSharp-Projects\\ZenOfDesignPattern\\3.MixedMode\\obj\\",

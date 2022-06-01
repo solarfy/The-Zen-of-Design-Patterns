@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ZenOfDesignPattern", "1.Z
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.DesignPatternPK", "2.DesignPatternPK\2.DesignPatternPK.csproj", "{6B4E27F7-E119-48C5-8B1A-6462F5156327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MixedMode", "3.MixedMode\3.MixedMode.csproj", "{921BF59F-67D4-4631-9DD0-379696F1BFD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.MixedMode", "3.MixedMode\3.MixedMode.csproj", "{921BF59F-67D4-4631-9DD0-379696F1BFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.NewDesignPattern", "4.NewDesignPattern\4.NewDesignPattern.csproj", "{41A19CC2-05EB-4866-9C9B-DFD9A7EF7114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{921BF59F-67D4-4631-9DD0-379696F1BFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921BF59F-67D4-4631-9DD0-379696F1BFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921BF59F-67D4-4631-9DD0-379696F1BFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A19CC2-05EB-4866-9C9B-DFD9A7EF7114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A19CC2-05EB-4866-9C9B-DFD9A7EF7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A19CC2-05EB-4866-9C9B-DFD9A7EF7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A19CC2-05EB-4866-9C9B-DFD9A7EF7114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

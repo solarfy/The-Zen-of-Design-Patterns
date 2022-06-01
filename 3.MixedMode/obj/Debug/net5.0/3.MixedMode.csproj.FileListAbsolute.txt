@@ -1,0 +1,16 @@
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.csproj.AssemblyReference.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.AssemblyInfoInputs.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.AssemblyInfo.cs
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.csproj.CoreCompileInputs.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\3.MixedMode.genruntimeconfig.cache
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.exe
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.deps.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.runtimeconfig.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.runtimeconfig.dev.json
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\ref\MixedMode.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\bin\Debug\net5.0\MixedMode.pdb
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\MixedMode.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\ref\MixedMode.dll
+E:\Code\CSharp-Projects\ZenOfDesignPattern\3.MixedMode\obj\Debug\net5.0\MixedMode.pdb
